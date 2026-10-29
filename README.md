@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Asset+Creator-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Kenney Shape Free Installer** — Kenney Shape is a free, simple 3D shape editor for creating basic 3D assets quickly. Works without internet access, no account required. Full offline installation.
+**💻 Kenney Shape Free Installer** — Kenney Shape is a free, simple 3D primitive shape creation tool for generating basic 3D game assets quickly. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Kenney Shape
 
-Kenney Shape is a free, simple 3D shape editor for creating basic 3D assets quickly. Stack and combine primitive shapes to build models without advanced 3D modeling knowledge. Export assets in common formats for use in game engines. Developed by Kenney, known for free game assets, Kenney Shape targets game developers who need quick custom 3D props without professional modeling skills.
+Kenney Shape is a free, simple 3D primitive shape creation tool for generating basic 3D game assets quickly. Created by asset creator Kenney, it provides an accessible way to combine and customize primitive shapes for game prototyping.
 
 ---
 
 ## ❌ Problem: Kenney Shape is hard to access
 
-- **Limited Complexity** — Primitive-based modeling limits organic or detailed shapes
-- **Export Options** — Limited format support compared to full 3D modeling tools
-- **Feature Set** — Very basic tool; not for production-quality 3D assets
-- **Niche Use** — Primarily useful for simple game prototyping assets
+- **Very Limited Scope** — Basic primitive combination only; not suitable for complex models
+- **Prototype Tool** — Designed for game prototyping, not production-quality asset creation
+- **No Advanced Modeling** — Cannot sculpt, UV unwrap, or apply complex materials
+- **Simple Output** — Assets require refinement in dedicated 3D tools for production use
 
 ---
 
@@ -121,7 +121,7 @@ Kenney Shape is a free, simple 3D shape editor for creating basic 3D assets quic
 
 ---
 
-**Kenney Shape Free Installer** — Kenney Shape is a free, simple 3D shape editor for creating basic 3D assets quickly. Install without internet connection today!
+**Kenney Shape Free Installer** — Kenney Shape is a free, simple 3D primitive shape creation tool for generating basic 3D game assets quickly. Install without internet connection today!
 
 <div align="center">
 
